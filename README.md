@@ -1,1 +1,3 @@
-# gpu-hw2
+# GPU Parallel Processing Homework 2
+
+Coding part of homework 2. 
